@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 4.1.1-aufs Kernel Configuration
+# Linux/x86 4.1.3-aufs Kernel Configuration
 #
 
 #
@@ -640,6 +640,7 @@ CONFIG_PCI_MMCONFIG=y
 CONFIG_PCI_DOMAINS=y
 # CONFIG_PCI_CNB20LE_QUIRK is not set
 # CONFIG_PCIEPORTBUS is not set
+CONFIG_PCI_BUS_ADDR_T_64BIT=y
 CONFIG_PCI_MSI=y
 # CONFIG_PCI_DEBUG is not set
 # CONFIG_PCI_REALLOC_ENABLE_AUTO is not set
