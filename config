@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 4.8.4-aufs Kernel Configuration
+# Linux/x86 4.8.5-aufs Kernel Configuration
 #
 CONFIG_64BIT=y
 CONFIG_X86_64=y
